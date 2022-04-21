@@ -1,0 +1,13 @@
+{
+    "full_name": "Max Dymond",
+    "email": "cmeister2@gmail.com",
+    "github_username": "cmeister2",
+    "project_name": "rusty",
+    "short_description": "A thing made out of rust",
+    "version": "0.1.0",
+    "license": [
+        "MIT",
+        "Apache Software License 2.0",
+        "Mozilla Public License 2.0"
+    ]
+}
